@@ -3,8 +3,8 @@
 
 <<Character Movement>>
 -Jump: W
--Right:D
--Left gitme:A
+-Right: D
+-Left: A
 -Fire: Mouse left click
 
  --> There is a save system for amount of kill and bullets in the game
